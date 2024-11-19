@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23B92" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Drafts" representedClassName="Drafts" syncable="YES" codeGenerationType="class">
+        <attribute name="draftID" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <relationship name="relationshipToTestCoreDataModel" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="TestCoreDataModel" inverseName="relationshipToDrafts" inverseEntity="TestCoreDataModel"/>
+    </entity>
+    <entity name="TestCoreDataModel" representedClassName="TestCoreDataModel" syncable="YES">
+        <attribute name="testObjects" optional="YES" attributeType="Transformable" valueTransformerName="TestObjectToDataTransformer" customClassName="TestChildObject"/>
+        <attribute name="uuid" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <relationship name="relationshipToDrafts" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Drafts" inverseName="relationshipToTestCoreDataModel" inverseEntity="Drafts"/>
+    </entity>
+</model>

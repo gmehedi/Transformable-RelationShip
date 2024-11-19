@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC85746B-7FA9-4A15-9A4D-539DB846C715"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "880FD917-2C87-45A7-A823-D44B35BCFF01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "880FD917-2C87-45A7-A823-D44B35BCFF01 - 9479d4de47e3fc40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObject.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTransformable.TestObject&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "912">
+               </Location>
+               <Location
+                  uuid = "880FD917-2C87-45A7-A823-D44B35BCFF01 - 9479d4de47e3fc40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObject.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTransformable.TestObject&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C24A3EC-CC02-417B-97F7-94EA59071FDD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5C24A3EC-CC02-417B-97F7-94EA59071FDD - 9479d4de47e3f3cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObject.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTransformable.TestObject&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "5C24A3EC-CC02-417B-97F7-94EA59071FDD - 9479d4de47e3f3cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObject.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CoreDataTransformable.TestObject&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b1205d42e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b1205d44d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052a3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052a1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052a5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b1205d5b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b1205d5b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052a1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052a1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "E24A0D2C-7398-4FD1-A58B-F937132C5E67 - 42743f3b12052975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestParentObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87CD94D5-B2DE-4C20-A781-0D18886C035B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "reverseTransformedValue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87CD94D5-B2DE-4C20-A781-0D18886C035B - 7cb2096f737ab1d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+               <Location
+                  uuid = "87CD94D5-B2DE-4C20-A781-0D18886C035B - 7cb2096f737ab1d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "87CD94D5-B2DE-4C20-A781-0D18886C035B - 7cb2096f737ab06d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "87CD94D5-B2DE-4C20-A781-0D18886C035B - 7cb2096f737ab06d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "reverseTransformedValue(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E - 7cb2096f737ab0e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "3232">
+               </Location>
+               <Location
+                  uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E - 7cb2096f737ab10a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2520">
+               </Location>
+               <Location
+                  uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E - 7cb2096f737ab7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "2520">
+               </Location>
+               <Location
+                  uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E - 7cb2096f737ab7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  uuid = "A6CBCFA6-171B-4648-BC57-3332DCE2594E - 7cb2096f737ab7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataTransformable.TestObjectToDataTransformer.reverseTransformedValue(Swift.Optional&lt;Any&gt;) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "CoreDataTransformable"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehedi/Desktop/R&amp;DWorkSpace/CoreDataTransformable/CoreDataTransformable/TestObjectToDataTransformer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "2608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D4888B8-BDAA-4F11-9D6E-EAAF941A5C87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "265E458E-0DBB-4B0C-B333-BFDE3E841E6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataTransformable/TestParentObjectToDataTransformer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
